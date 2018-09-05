@@ -1,5 +1,9 @@
 package cn.xldhome.wechat.message.req;
-
+/**
+ * 
+ * @author liudong
+ *
+ */
 public class LocationMessage extends BaseMessage{
 	// 地理位置维度
 		private String Location_X;

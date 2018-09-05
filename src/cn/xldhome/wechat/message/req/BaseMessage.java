@@ -1,5 +1,9 @@
 package cn.xldhome.wechat.message.req;
-
+/**
+ * 
+ * @author liudong
+ *
+ */
 public class BaseMessage {
 	// 开发者微信号
 		private String ToUserName;

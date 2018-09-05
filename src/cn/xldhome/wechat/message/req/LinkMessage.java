@@ -1,5 +1,9 @@
 package cn.xldhome.wechat.message.req;
-
+/**
+ * 
+ * @author liudong
+ *
+ */
 public class LinkMessage extends BaseMessage{
 	// 消息标题
 		private String Title;

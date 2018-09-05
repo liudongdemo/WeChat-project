@@ -1,5 +1,9 @@
 package cn.xldhome.wechat.message.req;
-
+/**
+ * 
+ * @author liudong
+ *
+ */
 public class ImageMessage extends BaseMessage{
 	// 图片链接
 		private String PicUrl;

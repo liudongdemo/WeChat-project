@@ -1,5 +1,9 @@
 package cn.xldhome.wechat.message.req;
-
+/**
+ * 
+ * @author liudong
+ *
+ */
 public class VoiceMessage extends BaseMessage{
 	// 媒体ID
 		private String MediaId;
